@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vidhi Shah.
+- 👀 I’m interested in Software development using the core programming technologies.
+- 🌱 I’m currently learning core java, HTML, CSS, JavaScript to build a good and stable application.
